@@ -1,0 +1,4 @@
+magic-cards
+===========
+
+Magic collection
